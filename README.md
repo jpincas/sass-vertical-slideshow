@@ -2,6 +2,8 @@
 
 Uses CSS keyframe animation to create a multistep slideshow that transitions with a vertical stepped 'scroll'.
 
+Demo: [https://codepen.io/jpincas/pen/xNVEOr](https://codepen.io/jpincas/pen/xNVEOr)
+
 Use SASS variables to control the slides:
 
 ```scss
